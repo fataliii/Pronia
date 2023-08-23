@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\bin\Debug\net6.0\Pronia.DataAcces.deps.json
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\bin\Debug\net6.0\Pronia.DataAcces.dll
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\bin\Debug\net6.0\Pronia.DataAcces.pdb
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.AssemblyInfo.cs
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.csproj.CopyComplete
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.dll
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\refint\Pronia.DataAcces.dll
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\Pronia.DataAcces.pdb
+C:\Users\USER\source\repos\ProniaWebApp\Pronia.DataAcces\obj\Debug\net6.0\ref\Pronia.DataAcces.dll

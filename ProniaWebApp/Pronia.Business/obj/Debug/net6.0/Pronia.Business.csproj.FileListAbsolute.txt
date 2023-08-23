@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.Business.deps.json
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.Business.dll
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.Business.pdb
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.DataAcces.dll
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.DataAcces.pdb
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.csproj.CopyComplete
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.dll
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\refint\Pronia.Business.dll
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\Pronia.Business.pdb
+C:\Users\ASUS\Desktop\fatali\ProniaWebApp\Prnia.Business\obj\Debug\net6.0\ref\Pronia.Business.dll
